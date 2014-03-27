@@ -7,7 +7,7 @@
     "component/object": "*",
     "visionmedia/debug": "*",
     "cloudup/dot": "*",
-    "cloudup/mongo-eql": "*"
+    "thebyrd/mongo-eql": "*"
   },
   "devDependencies": {
     "visionmedia/mocha": "*",
